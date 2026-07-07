@@ -1,8 +1,8 @@
 {
-    "Version": 32,
+    "Version": 33,
     "PainelConecta5G": false,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
-    "UrlUpdate": "https://paste.blume.net.br/raw/502",
+    "UrlUpdate": "https://raw.githubusercontent.com/cristiwilsud2-ship-it/Conecta5g/8f6a405ee0cb23cab6dca36e55c181baba7aa41a/README.md",
     "Sms": "https://www.painelconecta5g.com/update/pasta_DasDasilva/sms",
     "logoonline": "https://mvt-img-2945d2.imgbt-2945d2.workers.dev/i/users/566443269/1218e72e-d36b-494d-b3cf-3d3fe398dfe0.png",
     "fundoonline": "https://i.ibb.co/VFxJgYh/4c11e545040361e3bba01784d69ff2e5-1.jpg",
